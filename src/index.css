@@ -21,7 +21,7 @@ body {
   font-family: "Poppins", sans-serif;
   line-height: 1.7;
   color: var(--text-dark);
-  background-image: url("Dinnerplate.png");
+  background-image: url("./assets/Dinnerplate.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
